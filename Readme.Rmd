@@ -1,0 +1,21 @@
+---
+output: 
+  md_document:
+    variant: markdown_github
+---
+
+## Trabajo individual para la asignatura "Big Data"
+
+
+
+Repo utilizado para elaborar el trabajo para la asignatura "Programación y manejo de datos en la era del Big Data" de la Universitat de València durante el curso 2021-2022. La página web de la asignatura puede verse aquí: <https://perezp44.github.io/intro-ds-21-22-web/>.
+
+
+La versión final del trabajo puede visualizarse en: <https://Jalizh.github.io/trabajo_BigData/>. 
+
+
+
+El título del trabajo es Población de los países miembros de la UE.  
+En el trabajo hago una visualización simple de la población de estos países con distintos gráficos. 
+
+
